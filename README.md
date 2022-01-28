@@ -15,8 +15,7 @@ Tecnologia | Descrição | Versão | Site
 ------------ | ------------- | ------------ | ------------
 React JS | Uma biblioteca JavaScript para criar interfaces de usuário | v17.0.2 | https://pt-br.reactjs.org/
 React Router DOM | DOM bindings for React Router | v5.2.0 | https://yarnpkg.com/package/react-router-dom
-React Icons | Include popular icons in your React projects | v4.2.0 | https://react-icons.github.io/react-icons/
-
+Wheater Icons | 222 Weather Themed Icons and CSS | v2.0.10| https://erikflowers.github.io/weather-icons/
 
 <br>
 
