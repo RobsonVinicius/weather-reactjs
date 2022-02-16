@@ -1,11 +1,13 @@
-## Weather React js
+<h1 align="center">Weather React js</h1>
+<br>
 
 Description here.
 
 <br>
 
 ## Preview
-![Preview Project](src/assets/preview.png)
+Em Breve
+<!-- ![Preview Project](src/assets/preview.png) -->
 
 <br>
 
